@@ -69,8 +69,8 @@ btnhideright.onclick=function(){
         lc.style.width="100%";
     }
     
-    var page=document.getElementsByClassName("navpage")[0]; 
-    page.style.maxwidth="100%";
+    var page=document.getElementsByClassName("article")[0]; 
+    page.style.maxWidth="100%"
   
 }
 
